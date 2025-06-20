@@ -1,1 +1,3 @@
 "do it three times"
+"walking is the most important one" 
+"keep it up"
